@@ -68,7 +68,7 @@ header nav a:hover{
 /*FILME PRINCIPAL*/
 .main-movie{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('/img/ClaudeMonetImpressionSunrise.jpg') no-repeat;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('/img/ClaudeMonetImpressionSunrise.jpg'), no-repeat;
     height: 600px;
     background-size: cover;
     display: flex;
